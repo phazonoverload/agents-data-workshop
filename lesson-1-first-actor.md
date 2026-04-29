@@ -8,7 +8,7 @@
 
 ## 1. Create an Apify account
 
-Go to [console.apify.com/sign-up](https://console.apify.com/sign-up) and create a free account. Sign in.
+Go to [console.apify.com/sign-up](https://console.apify.com/sign-up?couponId=DEVWORLD2026&utm_source=devworld-conf&utm_medium=referral&utm_campaign=events-2026-devworld&utm_content=workshop) and create a free account. Sign in.
 
 ## 2. Apply the promo code
 
